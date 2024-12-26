@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gal Izhaky</h1>
 <h3 align="center">A Full-stack and Web developer from Israel</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gal-izhaky" alt="gal-izhaky" /></a> </p>
-
 - 📫 How to reach me **gal.izhaky12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
