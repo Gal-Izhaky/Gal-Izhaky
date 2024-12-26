@@ -40,7 +40,6 @@ Even though my Mabat project wasn't finished, because something similar was rele
 - 🗂️ SQLite,
 - 🚀 MongoDB,
 - 📱  Realm
--   
 
 **Tools & Platforms:**  
 - 🔀 Git
