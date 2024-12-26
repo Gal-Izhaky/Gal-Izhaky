@@ -37,7 +37,10 @@ Even though my Mabat project wasn't finished, because something similar was rele
 - 🌐 Vercel
 
 **Databases:**  
-- 🗂️ SQLite, MongoDB, Realm  
+- 🗂️ SQLite,
+- 🚀 MongoDB,
+- 📱  Realm
+-   
 
 **Tools & Platforms:**  
 - 🔀 Git
