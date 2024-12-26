@@ -1,16 +1,75 @@
-<h1 align="center">Hi 👋, I'm Gal Izhaky</h1>
-<h3 align="center">A Full-stack and Web developer from Israel</h3>
+# 👋 Hi, I'm Gal Izhaky!  
 
-- 📫 How to reach me **gal.izhaky12@gmail.com**
+### 🌍 **A 17-Year-Old Developer from Israel**  
+I'm a Fullstack developer from Rishon Lezion, Israel, currently studying in 12th grade, majoring in **Software Engineering**. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/gal izhaky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gal izhaky" height="30" width="40" /></a>
-</p>
+I have **over 5 years of experience** in programming and creating applications and websites.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🚀 About Me  
+- 🎓 **High School Student:** 12th grader majoring in Software Engineering.  
+- 🛠️ **First Project:** I developed a website for an engineering company - [gaeng](http://www.gaeng.co.il).  
+- 🤝 **Team Project:** Contributed as one of 20 developers on the [Rishon Bootcamp](https://github.com/TechMindsIL/BootcampRishon) project 
+- 💡 **Innovator:** Creator of [SuperReminder](https://github.com/Gal-Izhaky/SuperReminder), a shopping list management app, and its companion API ([Supermarket Database Updater](https://github.com/Gal-Izhaky/public-supermarket-database-updater)).  
+- 💻 **Problem Solver:** I like solving CTF challenges, and algorithmic problems - check out [my leetcode profile](https://leetcode.com/u/Gal_Izhaky/). 
+- ✨ **Free time**:  I like to study and learn new things in my free time, especially in the subjects Math, Physics, and Computer science.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gal-izhaky&show_icons=true&locale=en&layout=compact" alt="gal-izhaky" /></p>
 
+## 🔧 Technologies I Work With  
+**Programming Languages:**  
+- 🐍 Python  
+- 💻 JavaScript/TypeScript  
+- ☕ Java / C#  
+- 🌀 Lua  
+
+**Frontend & Mobile Development:**  
+- ⚛️ React / React Native  
+- 🌐 HTML, CSS, EJS, Bootstrap  
+- 🤖 Android Development (Java)  
+
+**Backend tools:**
+- 🧩 Node.js
+- 🔥 Firebase
+- ⚡ Supabase
+- 🌐 Vercel
+
+**Databases:**  
+- 🗂️ SQLite, MongoDB, Realm  
+
+**Tools & Platforms:**  
+- 🔀 Git
+- 💬 Slack
+- 🧪 Postman  
+- 🐧 Linux & Cybersecurity Fundamentals  
+
+
+## 🌟 Featured Projects 
+### [Makom Rishon](https://github.com/TechMindsIL/BootcampRishon)
+
+A fitness website for every Rishon Lezion resident, developed for Rishon Lezion's Municipality.
+The purpose of this website is To promote health and fitness by providing users with an easy way to find public fitness routes and machines.
+
+Technologies used:
+* Backend: Node.js with Express using MVC architecture
+* Database: MongoDB
+* Frontend: EJS templating engine
+
+[Prototype Website link](https://bootcamp.techminds.dev/)
+
+### [Supermarket Database Updater](https://github.com/Gal-Izhaky/public-supermarket-database-updater)  
+An API that fetches real-time supermarket data in compliance with Israel's 2015 food law, leveraging Node.js, Firebase, and Supabase. 
+
+(for more information check out README.md in the project's repository)
+### [SuperReminder](https://github.com/Gal-Izhaky/SuperReminder)   | Work in progress
+My final project for software engineering class: a mobile app for shopping list management and price comparison, featuring React Native, Firebase, and Realm. 
+
+(for more information check out README.md in the project's repository)
+
+
+
+### [Gaeng Website](http://www.gaeng.co.il)  
+My first professional project, a website for an engineering company, showcasing their projects and info about the company.  
+
+
+## 📫 Contact information  
+- **Email:** [gal.izhaky12@gmail.com](mailto:gal.izhaky12@gmail.com)  
 
