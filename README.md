@@ -1,13 +1,14 @@
-# I'm Gal Izhaky! 
+# Gal Izhaky
 
-### **A 17-Year-Old Developer from Israel**  
-I'm a Fullstack developer from Rishon Lezion, Israel, currently studying in 12th grade, majoring in **Software Engineering**. 
+### **A 17-Year-Old Developer**  
+I'm a Software/Fullstack developer, currently studying **Software Engineering** in the open university of Israel. 
 
-I have **over 5 years of experience** in programming and creating applications and websites. I've learned programming primarily from the internet, but I did take several courses (including [Mamram class](https://leadersapp.co.il/mamram-program-english/) and [Sunspark](https://sunspark.org/%d7%9e%d7%a1%d7%9c%d7%95%d7%9c-%d7%a4%d7%99%d7%aa%d7%95%d7%97-%d7%90%d7%a4%d7%9c%d7%99%d7%a7%d7%a6%d7%99%d7%95%d7%aa-%d7%92%d7%90%d7%95%d7%95%d7%94-java-me/)). 
+**over 6 years of experience** in programming and creating applications and websites. 
+Learned programming primarily from the internet, with a help of several courses when I was starting ([Mamram class](https://leadersapp.co.il/mamram-program-english/) and [Sunspark](https://sunspark.org/%d7%9e%d7%a1%d7%9c%d7%95%d7%9c-%d7%a4%d7%99%d7%aa%d7%95%d7%97-%d7%90%d7%a4%d7%9c%d7%99%d7%a7%d7%a6%d7%99%d7%95%d7%aa-%d7%92%d7%90%d7%95%d7%95%d7%94-java-me/)). 
 
-In 10th grade, I was a part of [Mabat project](https://pop.education.gov.il/mabat/), a program for high-achieving students that involves thinking of a product idea, developing it, and presenting it in a competition. 
+was a part of [Mabat project](https://pop.education.gov.il/mabat/), a program for high-achieving students that involves thinking of a product idea, developing it, and presenting it in a competition. 
 
-Even though my Mabat project wasn't finished, because something similar was released in the middle of development, I learned a lot about AI, product development, and how to present my ideas.
+Even though my Mabat project wasn't finished, because something similar was released in the middle of development, I learned a lot about AI and product development.
 
 ## About Me  
 - **High School Student:** 12th grader majoring in Software Engineering.  
